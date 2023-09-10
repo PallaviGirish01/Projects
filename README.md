@@ -1,1 +1,1 @@
-# Python Project on Pong game
+Pong game
